@@ -15,3 +15,4 @@ Zodgame automatic check-in using github action
 - Fork 之后需要手动执行一次，若成功运行其才会激活。
 返回项目主页面，点击上方的`Actions`，再点击左侧的`Genshin Impact Helper`，再点击`Run workflow`
 至此，部署完毕。
+1
